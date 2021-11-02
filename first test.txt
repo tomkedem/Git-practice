@@ -1,2 +1,2 @@
 This is a test for the bigginn version
-Addings a new column to the page
+Addings a new column to the page 12
